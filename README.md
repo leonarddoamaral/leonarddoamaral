@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá eu sou o Leonardo!!
 
-<!--
-**leonarddoamaral/leonarddoamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Sistemas de Informação
+- 💬 Contate-me no email: leonarddoamaral@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+  <div>
+  <a href= "https://github.com/leonarddoamaral/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonarddoamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonarddoamaral&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt= "LeoJava" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
+  <img align="center" alt="LeoPython" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
+  <img align="center" alt="LeoMySQL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="LeoHtml" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
+  <img align="center" alt="LeoCSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"> 
+</div>
+
