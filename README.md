@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Sistemas de Informação
 - 💬 Contate-me no email: leonarddoamaral@gmail.com
-- 😄 Pronouns: ele/dele
 
   <div>
   <a href= "https://github.com/leonarddoamaral/">
